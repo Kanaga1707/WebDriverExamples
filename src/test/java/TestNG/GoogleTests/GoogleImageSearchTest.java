@@ -25,6 +25,8 @@ public class GoogleImageSearchTest extends BaseTestCase{
         driver = DriverFactory.getDriver(DriverFactory.Browsers.FIREFOX);
         //Test git commanda
         //test git command
+        //test git commanf
+        //test git command
         driver.get("http://www.google.com");
     }
 
